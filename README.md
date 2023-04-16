@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BreeChep10
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently a software engineering student at ALX
 - 💞️ I’m looking to collaborate on building beginner projects
 - 📫 How to reach me bridgitchepkwony3@gmail.com
 
