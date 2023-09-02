@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm BreeChep10: Crafting Tomorrow's Digital Experiences
+# Hey there! 👋 I'm Bridgit Chepkwony!: Crafting Tomorrow's Digital Experiences
 
 ![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
