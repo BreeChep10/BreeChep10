@@ -28,7 +28,7 @@ Welcome to my vibrant corner of GitHub! I'm BreeChep10, a fervent Software Engin
 
 <p> 
   <a href="https://twitter.com/williamkubai2" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/william-kubai-86111a265" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/bridgit-chepkwony-1311b3271/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 </div>
 
