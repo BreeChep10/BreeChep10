@@ -20,10 +20,10 @@ Welcome to my vibrant corner of GitHub! I'm BreeChep10, a fervent Software Engin
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=swervolee&show_icons=true&theme=jolly&layout=compact" />
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=BreeChep10&show_icons=true&theme=jolly&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swervolee&langs_count=8&theme=jolly&layout=compact" />
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BreeChep10&langs_count=8&theme=jolly&layout=compact" />
 </a>
 
 <p> 
